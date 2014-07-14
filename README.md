@@ -10,10 +10,10 @@ Suit consists of:
 
 Credit for this project goes to (in alphabetic order):
 
-Bernardo Alvarez
-Diogo Teixeira
-Efthymios Doukas
-Lukasz Czarny
-Marcin Starczyk
-Sebastian Hnatyk
-Tomasz Hola
+* Bernardo Alvarez
+* Diogo Teixeira
+* Efthymios Doukas
+* Lukasz Czarny
+* Marcin Starczyk
+* Sebastian Hnatyk
+* Tomasz Hola
